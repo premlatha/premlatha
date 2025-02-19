@@ -1,37 +1,6 @@
 # Premlatha Shendre  
 ### Senior Software Engineer | Data & AI 
 
----
-
-## **Tech Stack**  
-
-### **Artificial Intelligence & Machine Learning**  
-- Azure OpenAI, GPT-4, LLMs  
-- Prompt Engineering, Semantic Kernel  
-- Azure Cognitive Services, Azure Chatbots  
-- Speech-to-Text, AI Document Processing  
-
-### **Cloud Platforms**  
-- Microsoft Azure (App Service, Functions, Storage, SQL, Logic Apps, Data Factory)  
-- Azure Kubernetes Service (AKS)  
-- Azure DevOps  
-
-### **Software Development**  
-- C#, Python, .NET, ASP.NET Core  
-- Web API, Microservices, Entity Framework  
-- Angular, TypeScript, Node.js, Docker  
-- Git, GitHub, Jenkins  
-
-### **Project Management & DevOps**  
-- Agile (Scrum, Kanban), Jira, Azure Board  
-- CI/CD Pipelines, Confluence  
-- Dependency Injection, Middleware  
-
-### **Third-Party Integrations**  
-- Box API, Stripe, Autotask  
-
----
-
 ## **GitHub Stats & Cloud Expertise**  
 
 <center>
