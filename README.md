@@ -1,9 +1,5 @@
 # Premlatha Shendre  
-### Senior Software Engineer | Full-Stack Developer | AI & Cloud Solutions Architect  
-
-Seasoned Software Engineer with over 12 years of experience in Full-Stack Development, Cloud Technologies, and Artificial Intelligence (AI). Proven expertise in designing and implementing scalable AI-driven solutions using **Azure OpenAI, Cognitive Services, and Speech-to-Text**. Experienced in developing modern web applications with **Angular, ASP.NET Core, and Python** while leveraging **Azure Cloud Services** for automation and optimization.  
-
-Passionate about building intelligent applications that enhance business processes, streamline workflows, and improve data-driven decision-making. Skilled in **Agile methodologies**, cross-functional collaboration, and delivering high-quality software solutions.  
+### Senior Software Engineer | Data & AI 
 
 ---
 
@@ -47,7 +43,6 @@ Passionate about building intelligent applications that enhance business process
   <tr>
       <td colspan="2" align="center">
           <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-          <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
           <img src="https://img.shields.io/badge/Azure%20Functions-4285F4?style=for-the-badge&logo=azure-functions&logoColor=white" />
           <img src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       </td>
