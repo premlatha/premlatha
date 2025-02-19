@@ -1,7 +1,5 @@
 # Premlatha Shendre  
-### Senior Software Engineer | Data & AI 
-
-## **GitHub Stats & Cloud Expertise**  
+### **GitHub Stats & Cloud Expertise**  
 
 <center>
 <table>
